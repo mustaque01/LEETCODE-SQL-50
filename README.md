@@ -31,6 +31,8 @@ Quick log of daily solutions. Each file contains a single query that passes the 
 | 23 | Number of Unique Subjects Taught by Each Teacher | Count distinct `subject_id` per `teacher_id` | [day23.sql](day23.sql) |
 | 24 | User Activity for the Past 30 Days I | Daily active users within the given 30-day window | [day24.sql](day24.sql) |
 | 25 | Product Sales Analysis III | Window min year per product, keep first-year rows | [day25.sql](day25.sql) |
+| 26 | Classes More Than 5 Students | Group courses by `class` and keep those with 5+ students | [day26.sql](day26.sql) |
+| 27 | Followers Count | Count `follower_id` per `user_id`, sorted by user | [day27.sql](day27.sql) |
 
 ## Notes
 - Dialect: MySQL-style SQL used by LeetCode.
