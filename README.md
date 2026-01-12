@@ -2,6 +2,8 @@
 
 Profile: https://leetcode.com/u/mustak_11/
 
+Status: Completed (50/50).
+
 Quick log of daily solutions. Each file contains a single query that passes the corresponding LeetCode SQL 50 challenge. Run them directly in the LeetCode editor or in MySQL-compatible environments.
 
 | Day | Problem | Idea | Solution |
