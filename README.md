@@ -52,6 +52,9 @@ Quick log of daily solutions. Each file contains a single query that passes the 
 | 44 | Fix Names in a Table | Capitalize first letter of `name`, lowercase the rest | [day44.sql](day44.sql) |
 | 45 | Patients With a Condition | Filter rows whose `conditions` contains the `DIAB1` code | [day45.sql](day45.sql) |
 | 46 | Delete Duplicate Emails | Delete rows with duplicate `email`, retaining lowest `id` per email | [day46.sql](day46.sql) |
+| 47 | Second Highest Salary | Take max salary below the overall max, return as `SecondHighestSalary` | [day47.sql](day47.sql) |
+| 48 | Group Sold Products by the Date | Per `sell_date`, count distinct products and list them alphabetically | [day48.sql](day48.sql) |
+| 49 | List the Products Ordered in a Period | Sum February 2020 units per product and keep totals ≥ 100 | [day49.sql](day49.sql) |
 
 ## Notes
 - Dialect: MySQL-style SQL used by LeetCode.
