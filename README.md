@@ -42,6 +42,16 @@ Quick log of daily solutions. Each file contains a single query that passes the 
 | 34 | Product Price at a Given Date | Latest price on/before 2019-08-16 per product, defaulting to 10 when missing | [day34.sql](day34.sql) |
 | 35 | Last Person to Fit in the Bus | Accumulate weights by turn and pick the last person within the 1000 limit | [day35.sql](day35.sql) |
 | 36 | Count Salary Categories | Categorize incomes into low/average/high and count each bucket | [day36.sql](day36.sql) |
+| 37 | Employees Whose Manager Left the Company | Employees under missing managers with salary < 30000 | [day37.sql](day37.sql) |
+| 38 | Exchange Seats | Swap adjacent seats by parity, keep order by id | [day38.sql](day38.sql) |
+| 39 | Movie Rating | Top rater by submission count and top movie by avg Feb 2020 rating | [day39.sql](day39.sql) |
+| 40 | Restaurant Growth | 7-day rolling revenue and average per visit date | [day40.sql](day40.sql) |
+| 41 | Friend Requests II: Who Has the Most Friends | Count accepted requests per user and return the max | [day41.sql](day41.sql) |
+| 42 | Find Total TIV Coverage | Sum `tiv_2016` where `tiv_2015` duplicates and coordinates are unique | [day42.sql](day42.sql) |
+| 43 | Department Top Three Salaries | `DENSE_RANK` salaries per department and keep ranks 1–3 | [day43.sql](day43.sql) |
+| 44 | Fix Names in a Table | Capitalize first letter of `name`, lowercase the rest | [day44.sql](day44.sql) |
+| 45 | Patients With a Condition | Filter rows whose `conditions` contains the `DIAB1` code | [day45.sql](day45.sql) |
+| 46 | Delete Duplicate Emails | Delete rows with duplicate `email`, retaining lowest `id` per email | [day46.sql](day46.sql) |
 
 ## Notes
 - Dialect: MySQL-style SQL used by LeetCode.
